@@ -54,3 +54,6 @@ Dynamic table formatting
 Visual styling in the PDF (e.g., alternating row colors)
 
 OUTPUTS
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/67e69ff5-9c92-474c-a870-964fa0fd0f42" />
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/9f477360-473c-499f-b689-befae2375f2a" />
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/76d17e6c-d0c3-40c3-aff5-af3199355aa3" />
